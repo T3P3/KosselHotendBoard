@@ -1,0 +1,59 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 14/07/2016 21:10:18
+
+BeginCmp
+TimeStamp = /5787F0A9;
+Reference = P1;
+ValeurCmp = CONN_6X2;
+IdModule  = PIN_ARRAY_6x2_lugs;
+EndCmp
+
+BeginCmp
+TimeStamp = /55046F6E;
+Reference = P2;
+ValeurCmp = HEATER;
+IdModule  = 3.5MM_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5787D3CF;
+Reference = P3;
+ValeurCmp = THERM;
+IdModule  = PIN_ARRAY_2X1_KK;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C47D72;
+Reference = P4;
+ValeurCmp = PWM FAN;
+IdModule  = PIN_ARRAY_2X1_KK;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C47DB4;
+Reference = P5;
+ValeurCmp = FAN;
+IdModule  = PIN_ARRAY_2X1_KK;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C4714C;
+Reference = P6;
+ValeurCmp = Probe;
+IdModule  = PIN_ARRAY_3X1_KK;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C62B93;
+Reference = P7;
+ValeurCmp = PWM FAN;
+IdModule  = PIN_ARRAY_2X1_KK;
+EndCmp
+
+BeginCmp
+TimeStamp = /5787D3C9;
+Reference = P8;
+ValeurCmp = SPARE;
+IdModule  = PIN_ARRAY_2X1_KK;
+EndCmp
+
+EndListe
